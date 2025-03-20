@@ -1,0 +1,169 @@
+.portada,
+.portada * {
+  box-sizing: border-box;
+}
+.portada {
+  background: #b5a8d6;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.fondo-fuera {
+  width: 1949px;
+  height: 1383px;
+  position: absolute;
+  left: calc(50% - 984px);
+  top: calc(50% - 682px);
+  aspect-ratio: 1949/1383;
+}
+.fondo-fuera2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.mackingtosh-portada {
+  width: 1778.81px;
+  height: 1054px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: -30px;
+  object-fit: cover;
+  aspect-ratio: 1778.81/1054;
+}
+.portada2 {
+  width: 550px;
+  height: 422px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 146px;
+  overflow: hidden;
+}
+.ventanita-portada {
+  width: 578px;
+  height: 443px;
+  position: absolute;
+  left: -12px;
+  top: -12px;
+  object-fit: cover;
+  aspect-ratio: 578/443;
+}
+.star-1 {
+  width: 6.91%;
+  height: 8.29%;
+  position: absolute;
+  right: 76.73%;
+  left: 16.36%;
+  bottom: 90.05%;
+  top: 1.66%;
+  overflow: visible;
+}
+.barra {
+  width: 293px;
+  height: 51px;
+  position: absolute;
+  left: calc(50% - 192px);
+  top: 21px;
+}
+.rect-ngulo-barra {
+  background: #e2aaf4;
+  width: 334px;
+  height: 37px;
+  position: absolute;
+  left: calc(50% - 121.5px);
+  top: 3px;
+}
+.logo {
+  width: 24.14%;
+  height: 70.73px;
+  position: absolute;
+  right: -27.21%;
+  left: 103.07%;
+  top: -13.25px;
+  transform-origin: 0 0;
+  transform: rotate(-1.415deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.contacto {
+  width: 34.81%;
+  height: 42.68px;
+  position: absolute;
+  right: 0%;
+  left: 65.19%;
+  top: 11px;
+  aspect-ratio: 102/42.68;
+}
+.contacto2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.info {
+  width: 34.81%;
+  height: 42.68px;
+  position: absolute;
+  right: 20.39%;
+  left: 44.79%;
+  top: 11px;
+  aspect-ratio: 102/42.68;
+}
+.info2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.inicio {
+  width: 36.42%;
+  height: 42.68px;
+  position: absolute;
+  right: 44.28%;
+  left: 19.3%;
+  top: 11px;
+  aspect-ratio: 106.7/42.68;
+}
+.inicio2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.winion-virus {
+  width: 37.69%;
+  height: 43.75px;
+  position: absolute;
+  right: 62.31%;
+  left: 0%;
+  top: 0px;
+  aspect-ratio: 110.43/43.75;
+}
+.winion-virus2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
